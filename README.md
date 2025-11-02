@@ -32,5 +32,4 @@ To **exit the program**, simply press the **`f` key**.
 - Press **`f`** to exit the program  
 
 ---
-git clone https://github.com/your-username/virtual-calculator.git
-cd virtual-calculator
+git clone [https://github.com/your-username/virtual-calculator.git]
