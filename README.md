@@ -10,7 +10,7 @@ To **exit the program**, simply press the **`f` key**.
 
 ## 📸 Interface Preview
 
-![Virtual Calculator Interface](b77516fb-42e3-4048-a1d1-84bc68ee8437.png)
+![Virtual Calculator Interface](interface.png)
 
 ---
 
@@ -32,4 +32,4 @@ To **exit the program**, simply press the **`f` key**.
 - Press **`f`** to exit the program  
 
 ---
-git clone [https://github.com/your-username/virtual-calculator.git]
+git clone [https://github.com/your-username/virtual-calculator.git](https://github.com/Ahuja-Vanshika/Virtual-Calculator)
